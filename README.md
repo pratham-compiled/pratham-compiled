@@ -1,3 +1,7 @@
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU2NG16YnlxOXUxOHZtMHdxdm15amNnbHZpdm0xeWpmc3c0Z2R4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hDotW2b4lllx8dOBTD/giphy.gif" width="100%" alt="Ghibli Forest Aesthetic Full Width" />
+
+
+
 <!-- Matrix Falling Green Code Animation -->
 <p align="center">
   <a href="https://github.com/pratham-compiled">
