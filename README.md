@@ -1,25 +1,13 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU2NG16YnlxOXUxOHZtMHdxdm15amNnbHZpdm0xeWpmc3c0Z2R4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hDotW2b4lllx8dOBTD/giphy.gif" width="100%" alt="Ghibli Forest Aesthetic Full Width" />
-
-
-
-<!-- Matrix Falling Green Code Animation -->
-<p align="center">
-  <a href="https://github.com/pratham-compiled">
-    <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="100%" height="230" alt="Matrix Green Code Animation" />
-  </a>
-</p>
-
 <!-- Greet Typing Animation -->
 <p align="center">
   <a href="https://github.com/pratham-compiled">
     <img width="650px" src="https://readme-typing-svg.demolab.com/?font=Ubuntu&color=58a6ff&size=22&center=true&vCenter=true&width=650&lines=Hello%2C+World+%F0%9F%91%8B;Welcome+to+My+Profile+%F0%9F%92%BB;Happy+to+See+You+Here+%F0%9F%98%80;Feel+Free+to+Look+Around+%E2%9C%8C;Reach+Me+Out+If+You+Need+Me+%F0%9F%8E%A8%F0%9F%99%8C;Have+a+Great+Day+%F0%9F%8C%9E" alt="Greeting Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
-
 <!-- Dynamic Hero Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A000000%2C50%3A1e1b4b%2C100%3A7e22ce&height=220&section=header&text=Hey%2C%20I%27m%20Pratham&fontSize=62&fontColor=ffffff&desc=B.Tech%20CSE%20%E2%80%A2%20Full%20Stack%20and%20Mobile%20Dev&descSize=22&descAlignY=72&animation=fadeIn" width="100%" alt="Hero Banner" />
