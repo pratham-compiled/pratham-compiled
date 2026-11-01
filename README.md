@@ -44,25 +44,12 @@
 - 🎯 Building toward **Full Stack Web & Mobile App Development**
 - 💻 Current Focus: **Strengthening DSA** & Exploring **JavaScript / Flutter**
 - 🎨 Passionate about writing clean code and solving real-world problems
-- 💻 Check out my portfolio: [Main Portfolio](https://your-portfolio.vercel.app/)
-- 📫 Reach me at: **your.email@gmail.com**
+- 💻 Check out my portfolio: UNDER PROGRESS STAY TUNED 
+- 📫 Reach me at: prathamkosuri@gmail.com
 
 ---
 
-## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://buymeacoffee.com/pratham-compiled" target="_blank"><img src="https://img.shields.io/badge/Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30" alt="Buy Me a Coffee" /></a>&nbsp;
-  <a href="https://linkedin.com/in/pratham-compiled" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/pratham-compiled" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" alt="HackerRank" /></a>&nbsp;
-  <a href="https://www.leetcode.com/pratham-compiled" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" alt="LeetCode" /></a>&nbsp;
-  <a href="https://www.postman.com/pratham-compiled" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman" /></a>&nbsp;
-  <a href="https://medium.com/@pratham-compiled" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" alt="Medium" /></a>&nbsp;
-  <a href="https://stackoverflow.com/users/YOUR_USER_ID" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" alt="Stack Overflow" /></a>&nbsp;
-  <a href="https://www.youtube.com/@pratham-compiled" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" alt="YouTube" /></a>
-</p>
-
----
 
 ## 🖥️ Tech Stack
 
