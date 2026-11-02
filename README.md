@@ -32,7 +32,7 @@
 
 ## About Me
 
-- 🚀 **B.Tech CSE 1st Year** | ISC Alum with strong **Java** roots ☕
+- 🚀 **B.Tech CSE 1st Year** | ISC Alumini with strong **Java** roots ☕
 - 🎯 Building toward **Full Stack Web & Mobile App Development**
 - 💻 Current Focus: **Strengthening DSA** & Exploring **JavaScript / Flutter**
 - 🎨 Passionate about writing clean code and solving real-world problems
