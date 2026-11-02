@@ -183,12 +183,13 @@
 ## Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/pratham-compiled/pratham-compiled/main/snake-pratham-snk-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/pratham-compiled/pratham-compiled/main/snake-pratham-snk-light.svg" />
+    <img alt="Snake eating PRATHAM" width="100%"
+         src="https://raw.githubusercontent.com/pratham-compiled/pratham-compiled/main/snake-pratham-snk-dark.svg" />
+  </picture>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</h3>
 
