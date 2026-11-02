@@ -9,9 +9,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 <!-- Dynamic Hero Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A000000%2C50%3A1e1b4b%2C100%3A7e22ce&height=220&section=header&text=Hey%2C%20I%27m%20Pratham&fontSize=62&fontColor=ffffff&desc=B.Tech%20CSE%20%E2%80%A2%20Full%20Stack%20and%20Mobile%20Dev&descSize=22&descAlignY=72&animation=fadeIn" width="100%" alt="Hero Banner" />
-</p>
+<img width="1280" height="400" alt="hero-left" src="https://github.com/user-attachments/assets/a560e573-255e-430f-abf8-921d94a8089a" />
+
 
 <!-- Intro -->
 <h3 align="center">A Passionate Full Stack & Mobile Developer from India 🇮🇳</h3>
